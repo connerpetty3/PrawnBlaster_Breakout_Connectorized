@@ -227,10 +227,10 @@
       (net 2 "GND") (pinfunction "Ext") (pintype "passive") (tstamp fac4059d-8c6c-49b6-af4c-aa836999c541))
     (pad "2" smd rect (at 0 4.25 90) (size 1.5 5.08) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "Ext") (pintype "passive") (tstamp e85a0c7c-4e23-42e7-a5bc-06fab7abaed3))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132289_EdgeMount.wrl"
+    (model "${LIBRARY}/SMA-J-P-H-ST-EM1--3DModel-STEP-269445.STEP"
       (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (scale (xyz 1.5 1.3 1.4))
+      (rotate (xyz -90 0 -90))
     )
   )
 
@@ -649,10 +649,10 @@
       (net 2 "GND") (pinfunction "Ext") (pintype "passive") (tstamp a07bda2c-93ba-4689-93f8-43840d42c864))
     (pad "2" smd rect (at 0 4.25 270) (size 1.5 5.08) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 203090e4-55b5-4296-8f59-81cdb9f4e79b))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132289_EdgeMount.wrl"
+    (model "${LIBRARY}/SMA-J-P-H-ST-EM1--3DModel-STEP-269445.STEP"
       (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (scale (xyz 1.5 1.3 1.4))
+      (rotate (xyz -90 0 -90))
     )
   )
 
@@ -1039,10 +1039,10 @@
       (net 2 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 9d739939-b4cf-4c27-9abf-4d234c03efde))
     (pad "2" smd rect (at 0 4.25 90) (size 1.5 5.08) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 9262c7d3-8469-461f-b560-6292a46b6254))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132289_EdgeMount.wrl"
+    (model "${LIBRARY}/SMA-J-P-H-ST-EM1--3DModel-STEP-269445.STEP"
       (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (scale (xyz 1.5 1.3 1.4))
+      (rotate (xyz -90 0 -90))
     )
   )
 
@@ -1183,10 +1183,10 @@
       (net 2 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 1e241255-1934-468e-ba56-ec740a91e5f2))
     (pad "2" smd rect (at 0 4.25 90) (size 1.5 5.08) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 53e66112-2768-4f87-a3a4-327d4bbba91b))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132289_EdgeMount.wrl"
+    (model "${LIBRARY}/SMA-J-P-H-ST-EM1--3DModel-STEP-269445.STEP"
       (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (scale (xyz 1.5 1.3 1.4))
+      (rotate (xyz -90 0 -90))
     )
   )
 
@@ -1423,10 +1423,10 @@
       (net 2 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 020e0185-2bf8-4fce-9c76-8efb7a2dd513))
     (pad "2" smd rect (at 0 4.25 270) (size 1.5 5.08) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "Ext") (pintype "passive") (tstamp f3f21c11-bf86-4001-9670-3d334c2c2a8e))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132289_EdgeMount.wrl"
+    (model "${LIBRARY}/SMA-J-P-H-ST-EM1--3DModel-STEP-269445.STEP"
       (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (scale (xyz 1.5 1.3 1.4))
+      (rotate (xyz -90 0 -90))
     )
   )
 
@@ -2367,10 +2367,10 @@
       (net 2 "GND") (pinfunction "Ext") (pintype "passive") (tstamp b69cb607-e721-4e82-932c-749619a5f51b))
     (pad "2" smd rect (at 0 4.25 90) (size 1.5 5.08) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 2f568f4d-c797-4b83-ae99-7c302d786987))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_132289_EdgeMount.wrl"
+    (model "${LIBRARY}/SMA-J-P-H-ST-EM1--3DModel-STEP-269445.STEP"
       (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (scale (xyz 1.5 1.3 1.4))
+      (rotate (xyz -90 0 -90))
     )
   )
 
